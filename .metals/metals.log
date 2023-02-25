@@ -1,0 +1,213 @@
+2023.02.25 17:27:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/harshagudise/Documents/JavaSE/.metals/lsp.trace.json or /Users/harshagudise/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.25 17:27:05 INFO  logging to file /Users/harshagudise/Documents/JavaSE/.metals/metals.log
+2023.02.25 17:27:05 INFO  Started: Metals version 0.11.10 in workspace '/Users/harshagudise/Documents/JavaSE' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/harshagudise/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.25 17:27:08 INFO  time: initialize in 2.98s
+2023.02.25 17:27:11 WARN  Build server is not auto-connectable.
+2023.02.25 17:27:11 WARN  no build tool detected in workspace '/Users/harshagudise/Documents/JavaSE'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.25 17:27:11 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:39:59 INFO  shutting down Metals
+2023.02.25 17:44:00 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/harshagudise/Documents/JavaSE/.metals/lsp.trace.json or /Users/harshagudise/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.25 17:44:04 INFO  logging to file /Users/harshagudise/Documents/JavaSE/.metals/metals.log
+2023.02.25 17:44:04 INFO  Started: Metals version 0.11.10 in workspace '/Users/harshagudise/Documents/JavaSE' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/harshagudise/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.25 17:44:10 INFO  time: initialize in 6.5s
+2023.02.25 17:44:17 WARN  Build server is not auto-connectable.
+2023.02.25 17:44:17 WARN  no build tool detected in workspace '/Users/harshagudise/Documents/JavaSE'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.25 17:44:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:44:20 INFO  time: code lens generation in 2.55s
+2023.02.25 17:44:20 INFO  time: code lens generation in 2.28s
+Feb 25, 2023 5:44:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.25 17:44:57 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:44:59 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:1: error: reached end of file while parsing
+cl
+^
+1 error
+2023.02.25 17:45:03 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:05 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:1: error: reached end of file while parsing
+import java.la
+              ^
+1 error
+2023.02.25 17:45:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:12 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:16 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:20 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:4: error: reached end of file while parsing
+class 
+     ^
+1 error
+2023.02.25 17:45:20 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:21 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:4: error: reached end of file while parsing
+class First
+           ^
+1 error
+2023.02.25 17:45:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:27 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:27 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:6: error: <identifier> expected
+    ps
+      ^
+1 error
+2023.02.25 17:45:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:39 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:41 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:7: error: not a statement
+        System.out.printl"");
+                  ^
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:7: error: ';' expected
+        System.out.printl"");
+                         ^
+2 errors
+2023.02.25 17:45:43 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:44 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:7: error: ';' expected
+        System.out.printl()"");
+                           ^
+1 error
+2023.02.25 17:45:47 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:49 INFO  time: code lens generation in 5.31s
+2023.02.25 17:45:49 INFO  time: code lens generation in 6.51s
+2023.02.25 17:45:49 INFO  time: code lens generation in 2.44s
+2023.02.25 17:45:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:51 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:7: error: not a statement
+        System.out.println"");
+                  ^
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:7: error: ';' expected
+        System.out.println"");
+                          ^
+2 errors
+2023.02.25 17:45:51 INFO  time: code lens generation in 1.15s
+2023.02.25 17:45:51 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:53 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:7: error: ';' expected
+        System.out.println()"");
+                            ^
+1 error
+2023.02.25 17:45:53 INFO  time: code lens generation in 1.41s
+2023.02.25 17:45:53 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:45:57 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:46:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:26 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:9: error: illegal start of expression
+    }
+    ^
+1 error
+2023.02.25 17:48:27 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:30 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:8: error: ';' expected
+        Scanner sc = new Scanner(null)
+                                      ^
+1 error
+2023.02.25 17:48:30 INFO  time: code lens generation in 1.71s
+2023.02.25 17:48:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:35 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:8: error: ';' expected
+        Scanner sc = new Scanner(System.in)
+                                           ^
+1 error
+2023.02.25 17:48:36 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:46 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:47 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:9: error: ';' expected
+        int a = sc.ne
+                     ^
+1 error
+2023.02.25 17:48:49 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:48:51 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:9: error: ';' expected
+        int a = sc.nextInt()
+                            ^
+1 error
+2023.02.25 17:48:52 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:9: error: ';' expected
+        int a = sc.nextInt()
+                            ^
+1 error
+2023.02.25 17:48:52 INFO  time: code lens generation in 2.22s
+2023.02.25 17:49:05 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:07 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:8: error: ';' expected
+        System.out.println("harsha");
+              ^
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:10: error: ';' expected
+        int a = sc.nextInt()
+                            ^
+2 errors
+2023.02.25 17:49:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:08 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:10: error: ';' expected
+        int a = sc.nextInt()
+                            ^
+1 error
+2023.02.25 17:49:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:11 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:10: error: ';' expected
+        int a = sc.nextInt(b)
+                             ^
+1 error
+2023.02.25 17:49:11 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:25 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:30 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:36 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:39 INFO  time: code lens generation in 2.86s
+2023.02.25 17:49:39 INFO  time: code lens generation in 3.25s
+2023.02.25 17:49:42 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:49:56 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:50:02 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:50:03 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:11: error: not a statement
+        Syst
+        ^
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:11: error: ';' expected
+        Syst
+            ^
+2 errors
+2023.02.25 17:50:03 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:50:05 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:11: error: not a statement
+        Syste
+        ^
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:11: error: ';' expected
+        Syste
+             ^
+2 errors
+2023.02.25 17:50:05 INFO  time: code lens generation in 1.19s
+2023.02.25 17:50:05 INFO  time: code lens generation in 1.53s
+2023.02.25 17:50:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:50:08 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/MyFirst.java. Output:
+/Users/harshagudise/Documents/JavaSE/MyFirst.java:11: error: ';' expected
+        System.out.println()
+                            ^
+1 error
+2023.02.25 17:50:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:50:10 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+2023.02.25 17:50:12 INFO  time: code lens generation in 3.17s
+2023.02.25 17:50:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
+Feb 25, 2023 5:50:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 385
+2023.02.25 17:57:55 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/MyFirst.java
