@@ -7233,3 +7233,1610 @@ org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Escape
 2023.03.12 18:32:03 INFO  time: code lens generation in 1.46s
 2023.03.12 18:32:03 INFO  time: code lens generation in 3.61s
 2023.03.12 18:32:11 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/StringObject.java
+2023.03.14 07:56:16 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:21 INFO  time: code lens generation in 4.16s
+2023.03.14 07:56:21 INFO  time: code lens generation in 3.17s
+2023.03.14 07:56:25 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:32 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:3: error: not a statement
+        int 
+        ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:3: error: ';' expected
+        int 
+           ^
+2 errors
+2023.03.14 07:56:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:45 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:45 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:6: error: ';' expected
+        Scanner sc = new Scanner(null)
+                                      ^
+1 error
+2023.03.14 07:56:46 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:6: error: ';' expected
+        Scanner sc = new Scanner()
+                                  ^
+1 error
+2023.03.14 07:56:48 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:51 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:53 INFO  time: code lens generation in 1.37s
+2023.03.14 07:56:53 INFO  time: code lens generation in 1.7s
+2023.03.14 07:56:58 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:56:59 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:7: error: ';' expected
+        num = sc.nextInt(num)
+                             ^
+1 error
+2023.03.14 07:57:00 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:01 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:7: error: ';' expected
+        num = sc.nextInt()
+                          ^
+1 error
+2023.03.14 07:57:02 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:08 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:3: error: <identifier> expected
+import 
+      ^
+1 error
+2023.03.14 07:57:10 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:18 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:29 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:36 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: illegal start of expression
+        if()
+           ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 07:57:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:38 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 07:57:39 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:40 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: illegal start of expression
+        if(num%)
+               ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 07:57:42 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:43 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 07:57:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:57:47 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:58:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:58:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:58:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:58:13 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:58:20 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:58:21 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 07:58:24 INFO  time: code lens generation in 3.22s
+2023.03.14 07:58:24 INFO  time: code lens generation in 3.77s
+2023.03.14 07:58:29 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:00:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:00:45 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:00:48 INFO  time: code lens generation in 3.39s
+Mar 14, 2023 8:00:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/java.base/java.lang/Thread.class?%3DJavaSE_a304276c%2F%5C%2FLibrary%5C%2FJava%5C%2FJavaVirtualMachines%5C%2Fjdk-17.jdk%5C%2FContents%5C%2FHome%5C%2Flib%5C%2Fjrt-fs.jar%60java.base%3D%2Fjavadoc_location%3D%2Fhttps%3A%5C%2F%5C%2Fdocs.oracle.com%5C%2Fen%5C%2Fjava%5C%2Fjavase%5C%2F17%5C%2Fdocs%5C%2Fapi%5C%2F%3D%2F%3Cjava.lang%28Thread.class"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:120)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:173)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:609)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:606)
+	at scala.meta.internal.metals.MetalsLspService.didFocus(MetalsLspService.scala:1173)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	... 16 more
+
+2023.03.14 08:01:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:01:38 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:01:41 INFO  time: code lens generation in 3.52s
+Mar 14, 2023 8:01:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/java.base/java.lang/Thread.class?%3DJavaSE_a304276c%2F%5C%2FLibrary%5C%2FJava%5C%2FJavaVirtualMachines%5C%2Fjdk-17.jdk%5C%2FContents%5C%2FHome%5C%2Flib%5C%2Fjrt-fs.jar%60java.base%3D%2Fjavadoc_location%3D%2Fhttps%3A%5C%2F%5C%2Fdocs.oracle.com%5C%2Fen%5C%2Fjava%5C%2Fjavase%5C%2F17%5C%2Fdocs%5C%2Fapi%5C%2F%3D%2F%3Cjava.lang%28Thread.class"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:120)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:173)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:609)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:606)
+	at scala.meta.internal.metals.MetalsLspService.didFocus(MetalsLspService.scala:1173)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	... 16 more
+
+Mar 14, 2023 8:02:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.03.14 08:03:40 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:03:49 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:03:51 INFO  time: code lens generation in 1.16s
+2023.03.14 08:03:52 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:03:53 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:20: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:03:55 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:03:56 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:19: error: illegal start of expression
+        if(num>)
+               ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:20: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:03:56 INFO  time: code lens generation in 1.27s
+2023.03.14 08:03:58 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:04:00 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:19: error: illegal start of expression
+        if(num>=14 && )
+                      ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:20: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:04:00 INFO  time: code lens generation in 1.1s
+2023.03.14 08:04:02 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:04:03 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:20: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:04:03 INFO  time: code lens generation in 1.01s
+2023.03.14 08:04:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:04:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:04:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:04:23 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:04:29 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:05:46 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:05:51 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:05:54 INFO  time: code lens generation in 1.04s
+2023.03.14 08:05:54 INFO  time: code lens generation in 1.63s
+2023.03.14 08:05:54 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:05:56 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:8: error: ';' expected
+        int m1
+              ^
+1 error
+2023.03.14 08:05:56 INFO  time: code lens generation in 1.14s
+2023.03.14 08:05:58 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:05 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:11 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:15 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:20 INFO  time: code lens generation in 2.33s
+2023.03.14 08:06:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:25 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:26 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: <identifier> expected
+        m1 = sc.
+                ^
+1 error
+2023.03.14 08:06:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:29 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: ';' expected
+        m1 = sc.nextInt()
+                         ^
+1 error
+2023.03.14 08:06:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:32 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: not a statement
+        m2
+        ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: ';' expected
+        m2
+          ^
+2 errors
+2023.03.14 08:06:36 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:37 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: ';' expected
+        m2 = sc.nextInt(m3)
+                           ^
+1 error
+2023.03.14 08:06:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:38 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: ';' expected
+        m2 = sc.nextInt()
+                         ^
+1 error
+2023.03.14 08:06:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:45 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:13: error: ';' expected
+        m3 = sc.nextInt()
+                         ^
+1 error
+2023.03.14 08:06:45 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:51 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:06:56 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:05 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:06 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:15: error: ';' expected
+        avg = (m1+m2+m3)
+                        ^
+1 error
+2023.03.14 08:07:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:18 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:9: error: ';' expected
+        float avg
+                 ^
+1 error
+2023.03.14 08:07:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:25 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:16: error: ';' expected
+        avg = (m1+m2+m3)f/3;
+                        ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:16: error: not a statement
+        avg = (m1+m2+m3)f/3;
+                         ^
+2 errors
+2023.03.14 08:07:29 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:43 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:47 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:48 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:34: error: '(' expected
+        if
+          ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:35: error: illegal start of expression
+    }
+    ^
+2 errors
+2023.03.14 08:07:49 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:50 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:35: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:07:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:52 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:34: error: illegal start of expression
+        if()
+           ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:35: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:07:52 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:53 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:35: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:07:54 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:56 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:34: error: illegal start of expression
+        if(avg>=)
+                ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:35: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:07:56 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:07:57 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:35: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:07:59 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:03 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:11 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:38: error: illegal start of expression
+        else if()
+                ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:08:11 INFO  time: code lens generation in 1.22s
+2023.03.14 08:08:11 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:12 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:08:13 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:15 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:38: error: illegal start of expression
+        else if()
+                ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:08:16 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:17 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:08:18 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:19 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:38: error: illegal start of expression
+        else if(avg>=)
+                     ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:08:20 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:22 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:08:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:23 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:38: error: illegal start of expression
+        else if(avg>=60 &&)
+                          ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:08:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:33 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:38: error: illegal start of expression
+        else if(avg>=60 && )
+                           ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:08:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:39 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:08:39 INFO  time: code lens generation in 1.05s
+2023.03.14 08:08:40 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:41 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:39: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:08:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:48 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:51 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:08:53 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:44: error: not a statement
+        ElementScanner14
+        ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:44: error: ';' expected
+        ElementScanner14
+                        ^
+2 errors
+2023.03.14 08:09:01 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:09:02 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:45: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:09:05 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:09:10 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 8:09:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9239
+Mar 14, 2023 8:09:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9242
+2023.03.14 08:09:45 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:10:02 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:10:06 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:11:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:11:23 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 8:11:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9352
+2023.03.14 08:11:36 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:14:46 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:14:49 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:14:55 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 8:14:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9409
+2023.03.14 08:14:57 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:01 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:02 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:04 INFO  time: code lens generation in 2.64s
+2023.03.14 08:15:16 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:17 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: ';' expected
+        Scanner sc = new Scanner(System.in);
+               ^
+1 error
+2023.03.14 08:15:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:20 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: ';' expected
+        Scanner sc = new Scanner(System.in);
+               ^
+1 error
+2023.03.14 08:15:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:29 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:51: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.14 08:15:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:32 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: <identifier> expected
+        String str = sc.
+                        ^
+1 error
+2023.03.14 08:15:35 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:36 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: ';' expected
+        String str = sc.next()
+                              ^
+1 error
+2023.03.14 08:15:39 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:40 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:11: error: ';' expected
+        String str = sc.nextLine()
+                                  ^
+1 error
+2023.03.14 08:15:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:47 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:53 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:54 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:52: error: '(' expected
+        if
+          ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:53: error: illegal start of expression
+    }
+    ^
+2 errors
+2023.03.14 08:15:58 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:15:59 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:53: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:16:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:10 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:53: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:16:21 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:22 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:53: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:16:23 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:24 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:53: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:16:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 8:16:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9705
+2023.03.14 08:16:39 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:42 INFO  time: code lens generation in 1.64s
+2023.03.14 08:16:42 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:46 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:47 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:56: error: illegal start of expression
+        else if()
+                ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:16:48 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:49 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:16:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:16:51 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:00 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:01 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:05 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:06 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:07 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:15 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:16 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:20 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:20 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:21 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:57: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:26 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:30 INFO  time: code lens generation in 2.5s
+2023.03.14 08:17:36 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:45 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:61: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:46 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:47 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:61: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:49 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:50 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:61: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:51 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:61: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:17:53 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:17:55 INFO  time: code lens generation in 1.02s
+2023.03.14 08:17:55 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:01 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:03 INFO  time: code lens generation in 1.46s
+2023.03.14 08:18:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:05 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:18:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:11 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:11 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:64: error: <identifier> expected
+        else if(str.)
+                    ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.14 08:18:12 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:18:12 INFO  time: code lens generation in 1.85s
+2023.03.14 08:18:12 INFO  time: code lens generation in 2.3s
+2023.03.14 08:18:13 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:14 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:18:18 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:19 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:18:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:23 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:18:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:18:33 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:19:01 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:02 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:19:06 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:07 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:19:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:10 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:11 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:19:12 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:19:12 INFO  time: code lens generation in 2.33s
+2023.03.14 08:19:14 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:15 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:19:18 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:19 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:65: error: illegal start of statement
+    }
+    ^
+1 error
+2023.03.14 08:19:23 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:26 INFO  time: code lens generation in 2.6s
+2023.03.14 08:19:29 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:36 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 08:19:41 INFO  time: code lens generation in 4.6s
+Mar 14, 2023 5:55:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10349
+2023.03.14 17:55:39 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:34 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: ';' expected
+        int n
+             ^
+1 error
+2023.03.14 17:56:34 INFO  time: code lens generation in 1.31s
+2023.03.14 17:56:34 INFO  time: code lens generation in 2.98s
+2023.03.14 17:56:34 INFO  time: code lens generation in 2.58s
+2023.03.14 17:56:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:39 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:69: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.14 17:56:40 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:46 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:49 INFO  time: code lens generation in 1.35s
+2023.03.14 17:56:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:54 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:56:56 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:71: error: '{' expected
+        switch(n)
+                 ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:74: error: reached end of file while parsing
+}
+ ^
+2 errors
+2023.03.14 17:56:56 INFO  time: code lens generation in 1.32s
+2023.03.14 17:56:59 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:02 INFO  time: code lens generation in 1.14s
+2023.03.14 17:57:03 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:16 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:17 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:75: error: : expected
+            case 2;
+                  ^
+1 error
+2023.03.14 17:57:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:21 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:76: error: : expected
+            case 2;
+                  ^
+1 error
+2023.03.14 17:57:27 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:28 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:76: error: : expected
+            case 2;
+                  ^
+1 error
+2023.03.14 17:57:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:36 INFO  time: code lens generation in 2.71s
+2023.03.14 17:57:36 INFO  time: code lens generation in 2.99s
+2023.03.14 17:57:36 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:46 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:48 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:56 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:57:57 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:82: error: : expected
+            default
+                   ^
+1 error
+2023.03.14 17:57:59 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:58:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 5:58:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/java.base/java.lang/Thread.class?%3DJavaSE_a304276c%2F%5C%2FLibrary%5C%2FJava%5C%2FJavaVirtualMachines%5C%2Fjdk-17.jdk%5C%2FContents%5C%2FHome%5C%2Flib%5C%2Fjrt-fs.jar%60java.base%3D%2Fjavadoc_location%3D%2Fhttps%3A%5C%2F%5C%2Fdocs.oracle.com%5C%2Fen%5C%2Fjava%5C%2Fjavase%5C%2F17%5C%2Fdocs%5C%2Fapi%5C%2F%3D%2F%3Cjava.lang%28Thread.class"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:120)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:173)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:609)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:606)
+	at scala.meta.internal.metals.MetalsLspService.didFocus(MetalsLspService.scala:1173)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	... 15 more
+
+2023.03.14 17:58:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:58:56 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:58:57 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 17:58:59 INFO  time: code lens generation in 2.64s
+Mar 14, 2023 5:59:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/java.base/java.lang/Thread.class?%3DJavaSE_a304276c%2F%5C%2FLibrary%5C%2FJava%5C%2FJavaVirtualMachines%5C%2Fjdk-17.jdk%5C%2FContents%5C%2FHome%5C%2Flib%5C%2Fjrt-fs.jar%60java.base%3D%2Fjavadoc_location%3D%2Fhttps%3A%5C%2F%5C%2Fdocs.oracle.com%5C%2Fen%5C%2Fjava%5C%2Fjavase%5C%2F17%5C%2Fdocs%5C%2Fapi%5C%2F%3D%2F%3Cjava.lang%28Thread.class"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:97)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:120)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:173)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:609)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:606)
+	at scala.meta.internal.metals.MetalsLspService.didFocus(MetalsLspService.scala:1173)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	... 15 more
+
+2023.03.14 18:23:03 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:06 INFO  time: code lens generation in 2.28s
+2023.03.14 18:23:06 INFO  time: code lens generation in 1s
+2023.03.14 18:23:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:12 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:14 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:12: error: not a statement
+        int ;
+        ^
+1 error
+2023.03.14 18:23:16 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:18 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:30 INFO  time: code lens generation in 1.2s
+2023.03.14 18:23:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:31 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:89: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.14 18:23:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:41 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:23:51 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 6:23:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11074
+2023.03.14 18:23:53 INFO  time: code lens generation in 1.69s
+2023.03.14 18:23:58 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 6:24:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11126
+2023.03.14 18:24:03 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:08 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1248)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Mar 14, 2023 6:24:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1776)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.03.14 18:24:08 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.03.14 18:24:08 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.03.14 18:24:10 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:15 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:20 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:25 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1248)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Mar 14, 2023 6:24:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1776)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.03.14 18:24:26 INFO  time: code lens generation in 1.14s
+2023.03.14 18:24:26 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:30 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:32 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1248)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Mar 14, 2023 6:24:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1776)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.03.14 18:24:34 INFO  time: code lens generation in 1.39s
+2023.03.14 18:24:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:38 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:48 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1248)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Mar 14, 2023 6:24:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1776)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.03.14 18:24:48 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.03.14 18:24:48 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.03.14 18:24:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:52 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:55 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:24:56 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:14: error: not a statement
+        So
+        ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:14: error: ';' expected
+        So
+          ^
+2 errors
+2023.03.14 18:24:58 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:14 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:15 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:19 INFO  time: code lens generation in 4.14s
+2023.03.14 18:25:19 INFO  time: code lens generation in 2.31s
+2023.03.14 18:25:23 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:24 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:24 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:15: error: ';' expected
+        a = sc.n
+                ^
+1 error
+2023.03.14 18:25:25 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:25 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:15: error: ';' expected
+        a = sc.n
+                ^
+1 error
+2023.03.14 18:25:26 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:15: error: ';' expected
+        a = sc.nextInt(a)
+                         ^
+1 error
+2023.03.14 18:25:26 INFO  time: code lens generation in 2.97s
+2023.03.14 18:25:27 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:28 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:15: error: ';' expected
+        a = sc.nextInt()
+                        ^
+1 error
+2023.03.14 18:25:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:33 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:16: error: ';' expected
+        b = sc.nextInt()
+                        ^
+1 error
+2023.03.14 18:25:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:25:47 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:02 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:08 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:10 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:94: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.14 18:26:10 INFO  time: code lens generation in 1.02s
+2023.03.14 18:26:10 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:11 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:18: error: <identifier> expected
+        opt = sc.
+                 ^
+1 error
+2023.03.14 18:26:14 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:15 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:18: error: ';' expected
+        opt = sc.nextLine()
+                           ^
+1 error
+2023.03.14 18:26:29 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:30 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:18: error: ';' expected
+        opt = sc.nextLine(1)
+                            ^
+1 error
+2023.03.14 18:26:33 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:35 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:18: error: ';' expected
+        opt = sc.nextInt)
+                        ^
+1 error
+2023.03.14 18:26:35 INFO  time: code lens generation in 1.17s
+2023.03.14 18:26:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:41 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:45 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:48 INFO  time: code lens generation in 3.62s
+2023.03.14 18:26:49 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:53 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:26:54 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:94: error: illegal start of expression
+        switch()
+               ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:94: error: '{' expected
+        switch()
+                ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:96: error: reached end of file while parsing
+}
+ ^
+3 errors
+2023.03.14 18:26:56 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:00 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:01 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:01 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:96: error: : expected
+            case 1:
+                  ^
+1 error
+2023.03.14 18:27:03 INFO  time: code lens generation in 2.69s
+2023.03.14 18:27:04 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:07 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:17 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:19 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:19 INFO  time: code lens generation in 1.06s
+2023.03.14 18:27:19 INFO  time: code lens generation in 1.39s
+2023.03.14 18:27:26 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:28 INFO  time: code lens generation in 1.06s
+2023.03.14 18:27:28 INFO  time: code lens generation in 1.39s
+2023.03.14 18:27:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:30 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:96: error: illegal start of expression
+            case 1: System.out.println("Sum of two given numbers "+ a + );
+                                                                        ^
+1 error
+2023.03.14 18:27:30 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:36 INFO  time: code lens generation in 4.48s
+2023.03.14 18:27:36 INFO  time: code lens generation in 1.7s
+2023.03.14 18:27:36 INFO  time: code lens generation in 2.73s
+2023.03.14 18:27:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:39 INFO  time: code lens generation in 1.26s
+2023.03.14 18:27:40 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:45 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:47 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:96: error: ';' expected
+            case 1: System.out.println("Sum of two given numbers "+ a + " and "+b+" is "+ a+b));
+                                                                                              ^
+1 error
+2023.03.14 18:27:47 INFO  time: code lens generation in 2.31s
+2023.03.14 18:27:48 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:54 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:27:56 INFO  time: code lens generation in 1.21s
+2023.03.14 18:28:00 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:12 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:23 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:25 INFO  time: code lens generation in 1.41s
+2023.03.14 18:28:25 INFO  time: code lens generation in 1s
+2023.03.14 18:28:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:31 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:33 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:98: error: illegal start of expression
+            case 2: System.out.println("Division of two given numbers "+);
+                                                                        ^
+1 error
+2023.03.14 18:28:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:35 INFO  time: code lens generation in 1.5s
+2023.03.14 18:28:38 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:42 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:44 INFO  time: code lens generation in 1.77s
+2023.03.14 18:28:48 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:49 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:98: error: illegal start of expression
+            case 2: System.out.println("Division of two given numbers "+ a + " and  "+ b + );
+                                                                                           ^
+1 error
+2023.03.14 18:28:49 INFO  time: code lens generation in 1.05s
+2023.03.14 18:28:50 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:52 INFO  time: code lens generation in 1.64s
+2023.03.14 18:28:52 INFO  time: code lens generation in 1.21s
+2023.03.14 18:28:52 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:54 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:28:55 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:98: error: illegal start of expression
+            case 2: System.out.println("Division of two given numbers "+ a + " and  "+ b + " is "+);
+                                                                                                  ^
+1 error
+2023.03.14 18:28:55 INFO  time: code lens generation in 1.98s
+2023.03.14 18:28:58 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:06 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:09 INFO  time: code lens generation in 1.41s
+2023.03.14 18:29:09 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:21 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:21 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1248)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+Mar 14, 2023 6:29:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:147)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1776)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.03.14 18:29:22 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:23 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:25 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.03.14 18:29:25 WARN  Cannot tokenize Java file file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.03.14 18:29:25 INFO  time: code lens generation in 2.37s
+2023.03.14 18:29:26 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:27 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:100: error: illegal start of expression
+            case 3: System.out.println("Multiplication of two given numbers "+a+);
+                                                                                ^
+1 error
+2023.03.14 18:29:27 INFO  time: code lens generation in 6.4s
+2023.03.14 18:29:27 INFO  time: code lens generation in 1.58s
+2023.03.14 18:29:27 INFO  time: code lens generation in 2.65s
+2023.03.14 18:29:27 INFO  time: code lens generation in 3.12s
+2023.03.14 18:29:27 INFO  time: code lens generation in 3.78s
+2023.03.14 18:29:28 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:29 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:31 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:100: error: illegal start of expression
+            case 3: System.out.println("Multiplication of two given numbers "+a+" and "+);
+                                                                                        ^
+1 error
+2023.03.14 18:29:31 INFO  time: code lens generation in 2.04s
+2023.03.14 18:29:32 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:33 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:100: error: illegal start of expression
+            case 3: System.out.println("Multiplication of two given numbers "+a+" and "+b+);
+                                                                                          ^
+1 error
+2023.03.14 18:29:34 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+Mar 14, 2023 6:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12670
+2023.03.14 18:29:37 INFO  time: code lens generation in 1.22s
+2023.03.14 18:29:37 INFO  time: code lens generation in 1.76s
+2023.03.14 18:29:38 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:29:44 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:31:13 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:31:14 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:102: error: illegal start of expression
+            case default:
+                 ^
+1 error
+2023.03.14 18:31:18 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:31:19 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:102: error: illegal start of expression
+            case default:
+                 ^
+1 error
+2023.03.14 18:31:27 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:31:37 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
+2023.03.14 18:31:39 WARN  Running javac-semanticdb failed for file:///Users/harshagudise/Documents/JavaSE/ConditionalStmts.java. Output:
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:102: error: not a statement
+            56default:
+            ^
+/Users/harshagudise/Documents/JavaSE/ConditionalStmts.java:102: error: ';' expected
+            56default:
+               ^
+2 errors
+2023.03.14 18:31:43 WARN  no build target for: /Users/harshagudise/Documents/JavaSE/ConditionalStmts.java
